@@ -59,7 +59,7 @@ Wednesday, 1:30–4:30 p.m.
 
 ### Homework
 
-- Update your naked homepage via GitHub with some real content, maybe about what you care about, what you like about the web, a few cool links, etc., using a handful of HTML elements, [sans CSS](https://laurakalbag.com/css-naked-day-2020/) and [deprecated tag soup](https://css-tricks.com/why-do-some-html-elements-become-deprecated/).
+- Update your *naked*, HTML only, homepage via GitHub with some real content, maybe about what you’re interested in, what you like about the web, a few cool links, etc., using a handful of HTML elements, [sans CSS](https://laurakalbag.com/css-naked-day-2020/) and [deprecated tag soup](https://css-tricks.com/why-do-some-html-elements-become-deprecated/).
 
 #### Handoff
 
