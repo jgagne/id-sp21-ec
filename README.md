@@ -45,27 +45,37 @@ Wednesday, 1:30–4:30 p.m.
 
 ## Week 1
 
+### Front Matter
+
 > 90 percent of design is typography. And the other 90 percent is whitespace.
 >
 > —[Jeffrey Zeldman](https://www.zeldman.com), designer, writer, and publisher
 
-> Good design and good markup provide structure to content. Good markup is a fundamental part of good design: beautiful on the inside, beautiful on the outside.
->
-> —[Frank Chimero](https://frankchimero.com), designer, illustrator, and writer
-
-### Hello World
+#### Hello World
 
 - [The World Wide Web project](http://info.cern.ch/hypertext/WWW/TheProject.html)
 - [This is a web page.](https://justinjackson.ca/words.html)
 - [This is a motherfucking website.](http://motherfuckingwebsite.com)
 
-### Read Me
+### Homework
+
+- Update your naked homepage via GitHub with some real content, maybe about what you care about, what you like about the web, a few cool links, etc., using a handful of HTML elements, [sans CSS](https://laurakalbag.com/css-naked-day-2020/) and [deprecated tag soup](https://css-tricks.com/why-do-some-html-elements-become-deprecated/).
+
+#### Handoff
+
+- TBA (to be announced)
+
+#### Read Me
 
 - [Web History, Chapter 1: Birth](https://css-tricks.com/chapter-1-birth/) by [Jay Hoffmann](https://thehistoryoftheweb.com) (with audio by Jeremy Keith)
 - [Why Do We Call it a Homepage?](https://thehistoryoftheweb.com/why-do-we-call-it-a-homepage/)
 - [HTML5 For Web Designers](https://html5forwebdesigners.com) by [Jeremy Keith](https://adactio.com)
 
-### See Also
+#### Watch Me
+
+- [The Layers Of The Web](https://vimeo.com/373128517) by Jeremy Keith [`45:14`]
+
+#### See Also
 
 - [HTML Basics](https://marksheet.io/html-basics.html)
 - [HTML5 Element Index](http://html5doctor.com/#glossary)
@@ -73,10 +83,6 @@ Wednesday, 1:30–4:30 p.m.
 - [Hello World · GitHub Guides](https://guides.github.com/activities/hello-world/)
   - ↑ **Note:** **Only Steps 1 and 3 apply** for the majority of the work we’ll do.
 - ["Hello, World!" program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
-
-### Homework
-
-- Update your naked homepage via GitHub with some real content, maybe about what you care about, what you like about the web, a few cool links, etc., using a handful of HTML elements, [sans CSS](https://laurakalbag.com/css-naked-day-2020/) and [deprecated tag soup](https://css-tricks.com/why-do-some-html-elements-become-deprecated/).
 
 
 ## Tools
