@@ -63,7 +63,7 @@ Wednesday, 1:30–4:30 p.m.
 
 #### Handoff
 
-- TBA (to be announced)
+- Add your URL to the `01-hello-world` channel in Slack.
 
 #### Read Me
 
