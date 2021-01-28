@@ -47,7 +47,11 @@ Wednesday, 1:30–4:30 p.m.
 
 ### Front Matter
 
-> 90 percent of design is typography. And the other 90 percent is whitespace.
+> What separates design from art is that design is meant to be functional.
+>
+> —[Cameron Moll](http://cameronmoll.com), designer, writer, and speaker
+
+> Real web designers write code. Always have, always will.
 >
 > —[Jeffrey Zeldman](https://www.zeldman.com), designer, writer, and publisher
 
@@ -59,7 +63,7 @@ Wednesday, 1:30–4:30 p.m.
 
 ### Homework
 
-- Update your *naked*, HTML only, homepage via GitHub with some real content, maybe about what you’re interested in, what you like about the web, a few cool links, etc., using a handful of HTML elements, [sans CSS](https://laurakalbag.com/css-naked-day-2020/) and [deprecated tag soup](https://css-tricks.com/why-do-some-html-elements-become-deprecated/).
+Working in HTML only, update your *naked* homepage via GitHub with some real content, maybe about what you’re interested in, what you like about the web, a few cool links, etc., using a handful of HTML elements, [sans CSS](https://laurakalbag.com/css-naked-day-2020/), and no [deprecated tag soup](https://css-tricks.com/why-do-some-html-elements-become-deprecated/).
 
 #### Handoff
 
@@ -67,9 +71,11 @@ Wednesday, 1:30–4:30 p.m.
 
 #### Read Me
 
+- [The unreasonable effectiveness of simple HTML](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html) by [Terence Eden](https://shkspr.mobi/blog/)
 - [Web History, Chapter 1: Birth](https://css-tricks.com/chapter-1-birth/) by [Jay Hoffmann](https://thehistoryoftheweb.com) (with audio by Jeremy Keith)
-- [Why Do We Call it a Homepage?](https://thehistoryoftheweb.com/why-do-we-call-it-a-homepage/)
-- [HTML5 For Web Designers](https://html5forwebdesigners.com) by [Jeremy Keith](https://adactio.com)
+- [A Brief History of Markup](https://html5forwebdesigners.com/history/) by [Jeremy Keith](https://adactio.com)
+- [Why Do We Call it a Homepage?](https://thehistoryoftheweb.com/why-do-we-call-it-a-homepage/) by Jay Hoffmann
+- [Content First — Design Last](https://www.smashingmagazine.com/2015/02/design-last/) by [Rik Schennink](http://rikschennink.nl)
 
 #### Watch Me
 
@@ -82,6 +88,10 @@ Wednesday, 1:30–4:30 p.m.
 - [HTML Reference](https://htmlreference.io)
 - [Hello World · GitHub Guides](https://guides.github.com/activities/hello-world/)
   - ↑ **Note:** **Only Steps 1 and 3 apply** for the majority of the work we’ll do.
+- [Format your messages in Slack](https://slack.com/intl/en-cz/help/articles/202288908-Format-your-messages)
+
+#### Et Cetera
+
 - ["Hello, World!" program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 
 
@@ -125,5 +135,6 @@ Nice-to-have, but *not required*.
 
 ## Resources
 
-- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
-- [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about)
+- [HTML5 For Web Designers](https://html5forwebdesigners.com) by [Jeremy Keith](https://adactio.com)
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) by [Shaw Howe](https://shayhowe.com)
+- [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about) by [Aaron Gustafson](https://www.aaron-gustafson.com) for [Aquent Gymnasium](https://thegymnasium.com)
