@@ -65,8 +65,20 @@ Wednesday, 1:30–4:30 p.m.
 
 Working in HTML only, update your *naked* homepage via GitHub with some real content, maybe about what you’re interested in, what you like about the web, a few cool links, etc., using a handful of HTML elements, [sans CSS](https://laurakalbag.com/css-naked-day-2020/), and no [deprecated tag soup](https://css-tricks.com/why-do-some-html-elements-become-deprecated/).
 
+#### Goals
+
+1. Focus on content first.
+2. How to define and separate content, semantics, and structure from visual presentation (look and feel, that'll come later).
+3. Overview view of [HTML vocabulary](http://apps.workflower.fi/vocabs/html/en).
+
 #### Handoff
 
+- Create a GitHub repo, in all-lowercase, and separate words with hyphens (no spaces or underscores) with a `README.md` and an `index.html`.
+  - For example:
+    - `hello-world`
+      - `index.html`
+      - `README.md`
+  - See [Naming guidelines](https://developers.google.com/style/filenames) and [Dashes vs. underscores](https://www.mattcutts.com/blog/dashes-vs-underscores/) for details.
 - Add your URL to the `01-hello-world` channel in Slack.
 
 #### Read Me
@@ -86,6 +98,7 @@ Working in HTML only, update your *naked* homepage via GitHub with some real con
 - [HTML Basics](https://marksheet.io/html-basics.html)
 - [HTML5 Element Index](http://html5doctor.com/#glossary)
 - [HTML Reference](https://htmlreference.io)
+- [HTML Vocabulary](http://apps.workflower.fi/vocabs/html/en)
 - [Hello World · GitHub Guides](https://guides.github.com/activities/hello-world/)
   - ↑ **Note:** **Only Steps 1 and 3 apply** for the majority of the work we’ll do.
 - [Format your messages in Slack](https://slack.com/intl/en-cz/help/articles/202288908-Format-your-messages)
