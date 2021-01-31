@@ -68,8 +68,9 @@ Working in HTML only, update your *naked* homepage via GitHub with some real con
 #### Goals
 
 1. Focus on content first.
-2. How to define and separate content, semantics, and structure from visual presentation (look and feel, that'll come later).
-3. Overview view of [HTML vocabulary](http://apps.workflower.fi/vocabs/html/en).
+2. How to define and separate content, semantics, and structure from visual presentation (look and feel, that’ll come later).
+3. Overview of [HTML vocabulary](http://apps.workflower.fi/vocabs/html/en).
+4. Overview of [HTML elements](http://html5doctor.com/#glossary).
 
 #### Handoff
 
