@@ -74,12 +74,13 @@ Working in HTML only, update your *naked* homepage via GitHub with some real con
 
 #### Handoff
 
-- Create a GitHub repo, in all-lowercase, and separate words with hyphens (no spaces or underscores) with a `README.md` and an `index.html`.
+- Create a GitHub repo, with a `README.md` and an `index.html`, in all-lowercase, and separate words with a hyphen (no spaces or underscores).
   - For example:
     - `hello-world`
       - `index.html`
       - `README.md`
-  - See [Naming guidelines](https://developers.google.com/style/filenames) and [Dashes vs. underscores](https://www.mattcutts.com/blog/dashes-vs-underscores/) for details.
+  - See [demo repo](https://github.com/ec-student/hello-world) for details.
+  - See also [Naming guidelines](https://developers.google.com/style/filenames) and [Dashes vs. underscores](https://www.mattcutts.com/blog/dashes-vs-underscores/) for details.
 - Add your URL to the `01-hello-world` channel in Slack.
 
 #### Read Me
