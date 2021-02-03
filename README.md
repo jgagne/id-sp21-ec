@@ -22,7 +22,7 @@
 
 ## Schedule
 
-Wednesday, 1:30–4:30 p.m.
+Wednesday, 1:30–4:00 p.m.
 
 1. [Week 1](#week-1), January 27
 2. [Week 2](#week-2), February 3
