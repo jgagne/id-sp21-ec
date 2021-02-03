@@ -108,6 +108,78 @@ Working in HTML only, update your *naked* homepage via GitHub with some real con
 - ["Hello, World!" program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 
 
+## Week 2
+
+> Content precedes design. Design in the absence of content is not design, it’s decoration.
+>
+> —[Jeffrey Zeldman](https://twitter.com/zeldman/status/804159148?lang=en)
+
+> Good design and good markup provide structure to content. Good markup is a fundamental part of good design: beautiful on the inside, beautiful on the outside.
+>
+> —[Frank Chimero](https://frankchimero.com), designer, illustrator, and writer
+
+### Markup & Style
+
+- [W3Fools](https://www.w3fools.com) – Better web education for all
+- [Wayback Machine](https://web.archive.org)
+- [CSS Zen Garden](http://www.csszengarden.com)
+- [Do websites need to look exactly the same in every browser?](http://dowebsitesneedtolookexactlythesameineverybrowser.com)
+
+### Homework
+
+Validate, update, and rework your HTML, then enhance your homepage with basic CSS typography, color, and layout. Continue to focus on content and accessibility while looking great, all at the same time. Content first; design second. Oh, and design for mobile first.
+
+#### Handoff
+
+- Add an external style sheet to your homepage, `main.css` in a `css` folder, in all-lowercase, and `<link>` to it from `index.html`.
+  - For example:
+    - `hello-world` (or `3d-printing`, `pumpkin-pie`, etc.)
+      - `css`
+        - `main.css`
+      - `index.html`
+      - `README.md`
+    - See [demo repo](https://github.com/ec-student/hello-world) for details.
+- Use [web safe colors](https://htmlcolorcodes.com/color-chart/web-safe-color-chart/) in shorthand hex (hexadecimal) color codes.
+  - For example: A solid blue is `#00f` as a shorthand hex color code (versus `#0000ff`).
+- Use [accessible color combinations](#color-pickers) to meet AA and/or AAA criteria.
+- Use basic [typography](https://cssreference.io/typography/) properties for setting text case (`text-transform`), weight (`font-weight`), style (`font-style`), leading (`line-height`), etc.
+- Use proper typographic characters for fractions (½), degrees (℉), quotes (“”), etc.
+  - Use the human readable character, *not the code*, from [HTML Symbols, Entities, Characters and Codes](https://htmlarrows.com).
+- Use basic [web safe fonts](https://web.mit.edu/jmorzins/www/fonts.html) in a [CSS font stack](https://www.cssfontstack.com) (system fonts with almost equal support on Mac and PC).
+- Use basic [box model](https://cssreference.io/box-model/) properties for spacing (`padding` and `margin`) and rules (`border`). And maybe even add a [`background-color`](https://cssreference.io/backgrounds/#background-color).
+- Write meaningful and concise alt text descriptions (when using images).
+  - Aim for a single sentence in under 100 characters (120 characters at max) for each alt text description.
+- Validate [HTML](https://validator.w3.org/nu/) and [CSS](https://jigsaw.w3.org/css-validator/), and [check links](https://validator.w3.org/checklink).
+
+#### Read Me
+
+- [Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement/)
+- [
+The Design Of HTML5](https://html5forwebdesigners.com/design/) by [Jeremy Keith](https://adactio.com)
+- [A Look Back at the History of CSS](https://css-tricks.com/look-back-history-css/) by [Jay Hoffmann](https://thehistoryoftheweb.com)
+- [Alt text is part of your site’s content](https://www.centercentre.com/2016/06/30/2016-06-30-alt-text-is-part-of-your-sites-content/)
+  - [When writing alt text, ask yourself this question](https://www.centercentre.com/2016/06/09/2016-06-09-when-writing-alt-text-ask-yourself-this-question/)
+- [Typography Matters](https://alistapart.com/article/typography/)
+- [Fonts on the Web: Web-safe Fonts](https://www.fonts.com/content/learning/fyti/using-type-tools/fonts-on-the-web)
+- [Colour contrast - why does it matter?](https://accessibility.blog.gov.uk/2016/06/17/colour-contrast-why-does-it-matter/)
+
+#### Watch Me
+
+- TBD (to be determined)
+
+#### See Also
+
+- [CSS Basics](https://marksheet.io/css-basics.html)
+- [CSS Reference](https://cssreference.io)
+- [CSS Vocabulary](http://apps.workflower.fi/vocabs/css/en)
+- [Working With Typography](https://learn.shayhowe.com/html-css/working-with-typography/)
+
+#### Et Cetera
+
+- [Short note: The abbreviation appreciation society](https://developer.paciellogroup.com/blog/2019/03/short-note-the-abbreviation-appreciation-society/)
+- [Setting Height And Width On Images Is Important Again](https://www.smashingmagazine.com/2020/03/setting-height-width-images-important-again/)
+
+
 ## Tools
 
 ### Text Editors
@@ -120,12 +192,6 @@ Choose your brand or flavor; free-range, open, or locally sourced.
 - [Visual Studio Code](https://code.visualstudio.com) (Microsoft)
 - [JS Bin](https://jsbin.com) (web-based; made in Brighton, England with blood, sweat, and code)
 
-### Writing, Grammar, and Punctuation
-
-- [Grammarly](https://app.grammarly.com)
-- [Hemingway Editor](http://www.hemingwayapp.com)
-- [The Punctuation Guide](https://www.thepunctuationguide.com)
-
 ### Browsers
 
 Browsers *other than* Chrome (or Safari). See [Switchin’ to Firefox](https://robinrendle.com/notes/switchin-to-firefox/)
@@ -134,6 +200,44 @@ Browsers *other than* Chrome (or Safari). See [Switchin’ to Firefox](https://r
 - [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 - [Opera](https://www.opera.com)
+
+### Developer Tools
+
+Validate HTML, CSS, and links.
+
+- [W3C Developer Tools](https://www.w3.org/developers/tools/)
+
+### Color Codes
+
+- [HTML Color Codes](https://htmlcolorcodes.com)
+  - [Web Safe Color Chart](https://htmlcolorcodes.com/color-chart/web-safe-color-chart/)
+- [Web Safe Colors](https://websafecolors.info)
+- [Tint & Shade Generator](https://maketintsandshades.com)
+
+### Color Pickers
+
+Simple color pickers for checking the accessibility of text against the Web Content Accessibility Guidelines (WCAG).
+
+- [Accessible Colors](https://accessible-colors.com)
+- [Contraste](https://contrasteapp.com) (Mac 10.13+)
+- [Pika](https://superhighfives.com/pika) (Mac 10.15+)
+
+### Image Optimization
+
+- [ImageOptim](https://imageoptim.com/mac) (Mac only)
+- [JPG.rocks](https://jpeg.rocks/) — Privacy-aware JPEG optimizer
+- [Squoosh](https://squoosh.app)
+
+### Writing, Grammar, and Punctuation
+
+- [Grammarly](https://app.grammarly.com)
+- [Hemingway Editor](http://www.hemingwayapp.com)
+- [The Punctuation Guide](https://www.thepunctuationguide.com)
+
+### HTML Special Characters
+
+- [HTML Symbols, Entities, Characters and Codes](https://htmlarrows.com)
+- [Charcod.es](https://charcod.es)
 
 
 ## Books
@@ -150,4 +254,5 @@ Nice-to-have, but *not required*.
 
 - [HTML5 For Web Designers](https://html5forwebdesigners.com) by [Jeremy Keith](https://adactio.com)
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) by [Shaw Howe](https://shayhowe.com)
+- [Dive Into HTML5](http://diveinto.html5doctor.com) by Mark Pilgrim
 - [Modern Web Design](https://thegymnasium.com/courses/GYM/107/0/about) by [Aaron Gustafson](https://www.aaron-gustafson.com) for [Aquent Gymnasium](https://thegymnasium.com)
