@@ -45,8 +45,6 @@ Wednesday, 1:30–4:00 p.m.
 
 ## Week 1
 
-### Front Matter
-
 > What separates design from art is that design is meant to be functional.
 >
 > —[Cameron Moll](http://cameronmoll.com), designer, writer, and speaker
@@ -55,7 +53,7 @@ Wednesday, 1:30–4:00 p.m.
 >
 > —[Jeffrey Zeldman](https://www.zeldman.com), designer, writer, and publisher
 
-#### Hello World
+### Hello World
 
 - [The World Wide Web project](http://info.cern.ch/hypertext/WWW/TheProject.html)
 - [This is a web page.](https://justinjackson.ca/words.html)
