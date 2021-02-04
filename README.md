@@ -83,7 +83,7 @@ Working in HTML only, update your *naked* homepage via GitHub with some real con
 
 #### Read Me
 
-- [The unreasonable effectiveness of simple HTML](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html) by [Terence Eden](https://shkspr.mobi/blog/)
+- [The unreasonable effectiveness of simple HTML](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html) by Terence Eden
 - [Web History, Chapter 1: Birth](https://css-tricks.com/chapter-1-birth/) by [Jay Hoffmann](https://thehistoryoftheweb.com) (with audio by Jeremy Keith)
 - [A Brief History of Markup](https://html5forwebdesigners.com/history/) by [Jeremy Keith](https://adactio.com)
 - [Why Do We Call it a Homepage?](https://thehistoryoftheweb.com/why-do-we-call-it-a-homepage/) by Jay Hoffmann
@@ -153,15 +153,15 @@ Validate, update, and rework your HTML, then enhance your homepage with basic CS
 
 #### Read Me
 
-- [Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement/)
+- [Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement/) by [Aaron Gustafson](https://www.aaron-gustafson.com)
 - [
 The Design Of HTML5](https://html5forwebdesigners.com/design/) by [Jeremy Keith](https://adactio.com)
 - [A Look Back at the History of CSS](https://css-tricks.com/look-back-history-css/) by [Jay Hoffmann](https://thehistoryoftheweb.com)
-- [Alt text is part of your site’s content](https://www.centercentre.com/2016/06/30/2016-06-30-alt-text-is-part-of-your-sites-content/)
+- [Alt text is part of your site’s content](https://www.centercentre.com/2016/06/30/2016-06-30-alt-text-is-part-of-your-sites-content/) by [Jessica Ivins](https://jessicaivins.net/)
   - [When writing alt text, ask yourself this question](https://www.centercentre.com/2016/06/09/2016-06-09-when-writing-alt-text-ask-yourself-this-question/)
-- [Typography Matters](https://alistapart.com/article/typography/)
-- [Fonts on the Web: Web-safe Fonts](https://www.fonts.com/content/learning/fyti/using-type-tools/fonts-on-the-web)
-- [Colour contrast - why does it matter?](https://accessibility.blog.gov.uk/2016/06/17/colour-contrast-why-does-it-matter/)
+- [Typography Matters](https://alistapart.com/article/typography/) by [Erin Kissane](http://incisive.nu/about/)
+- [Fonts on the Web: Web-safe Fonts](https://www.fonts.com/content/learning/fyti/using-type-tools/fonts-on-the-web) by [Ilene Strizver](http://thetypestudio.com)
+- [Colour contrast - why does it matter?](https://accessibility.blog.gov.uk/2016/06/17/colour-contrast-why-does-it-matter/) by Richard Morton
 
 #### Watch Me
 
@@ -176,8 +176,9 @@ The Design Of HTML5](https://html5forwebdesigners.com/design/) by [Jeremy Keith]
 
 #### Et Cetera
 
-- [Short note: The abbreviation appreciation society](https://developer.paciellogroup.com/blog/2019/03/short-note-the-abbreviation-appreciation-society/)
-- [Setting Height And Width On Images Is Important Again](https://www.smashingmagazine.com/2020/03/setting-height-width-images-important-again/)
+- [Short note: The abbreviation appreciation society](https://developer.paciellogroup.com/blog/2019/03/short-note-the-abbreviation-appreciation-society/) by Steve Faulkner
+- [Setting Height And Width On Images Is Important Again](https://www.smashingmagazine.com/2020/03/setting-height-width-images-important-again/) by [Barry Pollard](https://www.tunetheweb.com/)
+- [What does "HREF" stand for?](https://tomayko.com/blog/2008/wtf-is-an-href-anyway) by Ryan Tomayko
 
 
 ## Tools
