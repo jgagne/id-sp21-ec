@@ -165,7 +165,7 @@ The Design Of HTML5](https://html5forwebdesigners.com/design/) by [Jeremy Keith]
 
 #### Watch Me
 
-- TBD (to be determined)
+- [Remembrance of Tags Past](https://codetalks.tv/talk/remembrance-of-tags-past-eric-a-meyer-css-minsk-js-2019-tyxfxvm-8zu) by [Eric A. Meyer](https://meyerweb.com/) `[46:33]`
 
 #### See Also
 
