@@ -6,7 +6,7 @@
 - Wednesday, 1:25–4:05 p.m., online/remote via Zoom, Slack, and GitHub
 - [Zoom Meeting](https://emmanuel.zoom.us/j/3352305835) (`Passcode` via [EC Learn](https://eclearn.emmanuel.edu/courses/3148012))
 - [Slack Workspace](https://id-sp20-ec.slack.com)
-- Office Hours: Wednesday, 12:30–1:30 p.m. before class or by appointment via Zoom and Slack
+- Office Hours: Wednesday, 12:15–1:15 p.m. before class or by appointment via Zoom and Slack
 - Instructor: Justin Gagne
 - Email: `gagnej@emmanuel.edu`
 - Work: Design lead for [Gymnasium](https://thegymnasium.com) at [Aquent](https://aquent.com) in Boston, MA.
