@@ -181,6 +181,67 @@ The Design Of HTML5](https://html5forwebdesigners.com/design/) by [Jeremy Keith]
 - [What does "HREF" stand for?](https://tomayko.com/blog/2008/wtf-is-an-href-anyway) by Ryan Tomayko
 
 
+## Week 3
+
+### Homework
+
+Markup and style a webpage focusing on content related to [procedural instructions](https://www.literacyideas.com/procedural-texts). From a meal on the cheap recipe to a lockdown fitness exercise, and beyond — how-to, tutorial, etc. You may use existing content *with* attribution. Use of your photographs or illustrations for imagery is *optional* but encouraged.
+
+#### Markup
+
+- Use headings: `h1`, `h2`, `h3`, etc.
+  - See [The HTML Section Heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
+- Use lists: `dl`, `ol`, and `ul`
+  - See [HTML content is 90% text](https://marksheet.io/html-text.html)
+- Use images, figures, and captions: `img`, `figure`, and `figucaption`
+  - See [The figure & figcaption elements](http://html5doctor.com/the-figure-figcaption-elements/)
+- Use text-level elements: `em`, `strong`, `sup`, `time`,  `mark`, etc.
+  - See [The small parts within a block of text](https://marksheet.io/html-inline-semantics.html)
+- Write meaningful and concise alt text descriptions (when using images).
+  - Aim for a single sentence in under 100 characters (120 characters at max) for each alt text description.
+    - See [Alt text is part of your site’s content](https://www.centercentre.com/2016/06/30/2016-06-30-alt-text-is-part-of-your-sites-content/) by [Jessica Ivins](https://jessicaivins.net/)
+    - See also [When writing alt text, ask yourself this question](https://www.centercentre.com/2016/06/09/2016-06-09-when-writing-alt-text-ask-yourself-this-question/)
+- Use of proper typographic characters for fractions (½), degrees (℉), quotes (“”), etc.
+  - Use human readable characters, *not codes*, from [HTML Symbols, Entities, Characters and Codes](https://htmlarrows.com).
+
+#### Style
+
+- Use type and class selectors
+  - See [How to target HTML elements](https://marksheet.io/css-selectors.html)
+- Use font styling with web safe fonts and colors
+  - Use typography properties for setting text case (`text-transform`), weight (`font-weight`), style (`font-style`), leading (`line-height`), etc.
+    - See [The Web is 90% text, so let's style it first](https://marksheet.io/css-text.html)
+    - See also [Fundamental text and font styling
+](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
+  - Use [web safe colors](https://htmlcolorcodes.com/color-chart/web-safe-color-chart/) in shorthand hex (hexadecimal) color codes.
+    - For example: A solid blue is `#00f` as a shorthand hex color code (versus `#0000ff`).
+  - Use [accessible color combinations](#color-pickers) to meet AA and/or AAA criteria.
+    - See [Colour contrast - why does it matter?](https://accessibility.blog.gov.uk/2016/06/17/colour-contrast-why-does-it-matter/) by Richard Morton
+  - Use [web safe fonts](https://web.mit.edu/jmorzins/www/fonts.html) in a [CSS font stack](https://www.cssfontstack.com) (system fonts with almost equal support on Mac and PC).
+- Use [box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model) properties for spacing ([padding](https://marksheet.io/css-padding.html) and [margin](https://marksheet.io/css-margin.html)) and rules ([border](https://marksheet.io/css-border.html)).
+
+#### Handoff
+
+- Add an external style sheet to your homepage, `main.css` in a `css` folder, in all-lowercase, and `<link>` to it from `index.html`.
+  - For example:
+    - `how-to`
+      - `css`
+        - `main.css`
+      - `index.html`
+      - `README.md`
+- Validate [HTML](https://validator.w3.org/nu/) and [CSS](https://jigsaw.w3.org/css-validator/), and [check links](https://validator.w3.org/checklink).
+
+#### Read Me
+
+- [Opening the Box Model](https://learn.shayhowe.com/html-css/opening-the-box-model/)
+- [Naming CSS Stuff Is Really Hard](https://sparkbox.com/foundry/naming_css_stuff_is_really_hard) by [Ethan Muller](https://www.ethanmuller.com)
+
+#### See Also
+
+- [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+
+
 ## Tools
 
 ### Text Editors
