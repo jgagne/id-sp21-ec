@@ -230,6 +230,7 @@ Markup and style a webpage focusing on content related to [procedural instructio
       - `index.html`
       - `README.md`
 - Validate [HTML](https://validator.w3.org/nu/) and [CSS](https://jigsaw.w3.org/css-validator/), and [check links](https://validator.w3.org/checklink).
+- Add your URL to the `02-how-to` channel in Slack.
 
 #### Read Me
 
