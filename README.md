@@ -264,7 +264,7 @@ Semantics](https://html5forwebdesigners.com/semantics/) by [Jeremy Keith](https:
 #### See Also
 
 - [CSS selectors](https://www.quirksmode.org/css/selectors/) by Peter-Paul Koch
-- [https://ishadeed.com/article/learn-css-positioning/](https://ishadeed.com/article/learn-css-positioning/) by Ahmad Shadeed
+- [Learn CSS Positioning](https://ishadeed.com/article/learn-css-positioning/) by Ahmad Shadeed
 
 #### Recap
 
