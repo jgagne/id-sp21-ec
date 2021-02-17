@@ -153,7 +153,6 @@ Validate, update, and rework your HTML, then enhance your homepage with basic CS
 
 #### Read Me
 
-- [Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement/) by [Aaron Gustafson](https://www.aaron-gustafson.com)
 - [
 The Design Of HTML5](https://html5forwebdesigners.com/design/) by [Jeremy Keith](https://adactio.com)
 - [A Look Back at the History of CSS](https://css-tricks.com/look-back-history-css/) by [Jay Hoffmann](https://thehistoryoftheweb.com)
@@ -241,6 +240,36 @@ Markup and style a webpage focusing on content related to [procedural instructio
 
 - [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
+
+## Week 4
+
+### Homework
+
+Continue to work on your how-to webpage with the following semantic, accessible, interactive, and visual enhancements:
+  - Add semantic elements for meaningful structure and design.
+  - Add in-page navigation and link to external content.
+  - Style links and lists for readability and accessibility.
+  - Choose one external example as inspiration to progressively enhance the visual style of an element on your webpage.
+    - **Note:** Capture (screenshot or link to) the source of inspiration to later share.
+
+#### Read Me
+
+- [
+Semantics](https://html5forwebdesigners.com/semantics/) by [Jeremy Keith](https://adactio.com)
+- [Semantic navigation with the nav element](http://html5doctor.com/nav-element/)
+- [When do the :hover, :focus, and :active pseudo-classes apply?](https://bitsofco.de/when-do-the-hover-focus-and-active-pseudo-classes-apply/) by [Ire Aderinokun](https://ireaderinokun.com)
+- [Anchors OK? Re-Assessing In-Page Links](https://www.nngroup.com/articles/in-page-links/)
+- [Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement/) by [Aaron Gustafson](https://www.aaron-gustafson.com)
+
+#### See Also
+
+- [CSS selectors](https://www.quirksmode.org/css/selectors/) by Peter-Paul Koch
+- [https://ishadeed.com/article/learn-css-positioning/](https://ishadeed.com/article/learn-css-positioning/) by Ahmad Shadeed
+
+#### Recap
+
+- [Colors in CSS](https://ishadeed.com/article/css-color/)
+- [Spacing in CSS](https://ishadeed.com/article/spacing-in-css/)
 
 
 ## Tools
