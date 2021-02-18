@@ -270,6 +270,7 @@ Semantics](https://html5forwebdesigners.com/semantics/) by [Jeremy Keith](https:
 
 - [Colors in CSS](https://ishadeed.com/article/css-color/)
 - [Spacing in CSS](https://ishadeed.com/article/spacing-in-css/)
+- [Using alt text properly](https://www.a11yproject.com/posts/2013-01-14-alt-text/)
 
 
 ## Tools
