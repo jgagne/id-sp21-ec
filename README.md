@@ -284,7 +284,7 @@ Continue to work on your how-to webpage with the following accessible, interacti
 #### Read Me
 
 - [CSS Lists, Markers, And Counters](https://www.smashingmagazine.com/2019/07/css-lists-markers-counters/)
-- [&lt;details&gte;: The Details disclosure element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
+- [&lt;details&gt;: The Details disclosure element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
 
 #### See Also
 
