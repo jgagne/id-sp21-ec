@@ -273,6 +273,30 @@ Semantics](https://html5forwebdesigners.com/semantics/) by [Jeremy Keith](https:
 - [Using alt text properly](https://www.a11yproject.com/posts/2013-01-14-alt-text/)
 
 
+## Week 5
+
+### Homework
+
+Continue to work on your how-to webpage with the following accessible, interactive, and visual enhancements:
+  - Add a visual progress enhancement with CSS pseudo-elements `::before`, `::after`, and `::marker`.
+  - Add a disclosure widget with the HTML `details` element.
+
+#### Read Me
+
+- [CSS Lists, Markers, And Counters](https://www.smashingmagazine.com/2019/07/css-lists-markers-counters/)
+- [&lt;details&gte;: The Details disclosure element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
+
+#### See Also
+
+- [Choose the right image format](https://web.dev/choose-the-right-image-format/)
+- [Optimizing Images for Web: A Practical Guide](https://www.abetterlemonadestand.com/optimizing-images-for-web/)
+
+#### Recap
+
+- [Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement/) by [Aaron Gustafson](https://www.aaron-gustafson.com)
+- [Naming CSS Stuff Is Really Hard](https://sparkbox.com/foundry/naming_css_stuff_is_really_hard) by [Ethan Muller](https://www.ethanmuller.com)
+
+
 ## Tools
 
 ### Text Editors
