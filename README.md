@@ -279,12 +279,16 @@ Semantics](https://html5forwebdesigners.com/semantics/) by [Jeremy Keith](https:
 
 Continue to work on your how-to webpage with the following accessible, interactive, and visual enhancements:
   - Add a visual progress enhancement with CSS pseudo-elements `::before`, `::after`, and `::marker`.
-  - Add a disclosure widget with the HTML `details` element.
+  - Add a disclosure widget to supplemental content with the HTML `details` element.
+
+**Note:** Full support for `::marker` in all browsers is limited to the `li` element within an ordered or unordered list. All other elements, such as the `summary` element within the `details` element, are not yet supported natively in Chrome and Safari. <mark>Test `::marker` in Firefox for full support.</mark>
 
 #### Read Me
 
 - [CSS Lists, Markers, And Counters](https://www.smashingmagazine.com/2019/07/css-lists-markers-counters/)
+- [Custom bullets with CSS ::marker](https://web.dev/css-marker-pseudo-element/)
 - [&lt;details&gt;: The Details disclosure element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
+- [Switchin’ to Firefox](https://www.robinrendle.com/notes/switchin-to-firefox)
 
 #### See Also
 
