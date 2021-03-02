@@ -292,12 +292,11 @@ Continue to work on your how-to webpage with the following accessible, interacti
 - [CSS Lists, Markers, And Counters](https://www.smashingmagazine.com/2019/07/css-lists-markers-counters/)
 - [Custom bullets with CSS ::marker](https://web.dev/css-marker-pseudo-element/)
 - [&lt;details&gt;: The Details disclosure element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
-- [Switchin’ to Firefox](https://www.robinrendle.com/notes/switchin-to-firefox)
 
 #### See Also
 
-- [Choose the right image format](https://web.dev/choose-the-right-image-format/)
-- [Optimizing Images for Web: A Practical Guide](https://www.abetterlemonadestand.com/optimizing-images-for-web/)
+- [Diving into the ::before and ::after Pseudo-Elements](https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/)
+- [Switchin’ to Firefox](https://www.robinrendle.com/notes/switchin-to-firefox)
 
 #### Recap
 
