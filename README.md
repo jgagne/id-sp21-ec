@@ -337,7 +337,7 @@ Continue to work on your how-to webpage with the following accessible, interacti
 
 #### Recap
 
-- [Writing Good Alt Text](https://www.youtube.com/watch?v=flf2vS0IoRs)
+- [Writing Good Alt Text](https://www.youtube.com/watch?v=flf2vS0IoRs) `[9:56]`
 
 #### Et Cetera
 
