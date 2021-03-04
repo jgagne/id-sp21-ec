@@ -332,7 +332,7 @@ Continue to work on your how-to webpage with the following accessible, interacti
 #### See Also
 
 - [Pausing a GIF with details/summary](https://css-tricks.com/pause-gif-details-summary/)
-- [Synchronous / Asynchronous Image Decode using〈img decoding〉Attribute](hhttps://usefulangle.com/post/277/img-decoding-attribute)
+- [Synchronous / Asynchronous Image Decode using〈img decoding〉Attribute](https://usefulangle.com/post/277/img-decoding-attribute)
 - [Browser-level image lazy-loading for the web](https://web.dev/browser-level-image-lazy-loading/)
 
 #### Recap
