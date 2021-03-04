@@ -367,9 +367,10 @@ Browsers *other than* Chrome (or Safari). See [Switchin’ to Firefox](https://r
 
 ### Developer Tools
 
-Validate HTML, CSS, and links.
+Validate HTML, CSS, links, and accessibility of colors.
 
 - [W3C Developer Tools](https://www.w3.org/developers/tools/)
+- [Color Contrast Accessibility Validator](https://color.a11y.com/)
 
 ### Color Codes
 
