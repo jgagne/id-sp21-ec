@@ -304,6 +304,46 @@ Continue to work on your how-to webpage with the following accessible, interacti
 - [Naming CSS Stuff Is Really Hard](https://sparkbox.com/foundry/naming_css_stuff_is_really_hard) by [Ethan Muller](https://www.ethanmuller.com)
 
 
+## Week 6
+
+### Homework
+
+1. Start to wrap-up work on your how-to webpage focusing on accessibility and performance best practices:
+    - Review and update color contrast ratio to improve the accessibility of content. Review and update color contrast ratio to improve the accessibility of content. Remember — typography, color, and layout are visual enhancements — content and accessibility first.
+      - See [Color Pickers](#color-pickers) tools.
+    - Resize and optimize images to the size they appear in the browser or at a maximum, double the width for retina and super retina displays, and aim for an optimized file size around `150 KB` and below (`200 KB` at max, please).
+      - See [Image Optimization](#image-optimization) tools.
+2. Select a single topic (page) from [Wikipedia](https://wikipedia.org) to redesign the mobile and desktop experience as one web, single- or multi-page website for everyone.
+    - For example — <i>Hypertext</i>: [mobile version](https://en.m.wikipedia.org/wiki/Hypertext) (`m-dot`) and [desktop version](https://en.wikipedia.org/wiki/Hypertext).
+
+#### Demo
+
+- [Decoding & Loading Images](https://github.com/ec-student/img-async-lazy)
+
+#### Read Me
+
+- [Choose the right image format](https://web.dev/choose-the-right-image-format/)
+- [Optimizing Images for Web: A Practical Guide](https://www.abetterlemonadestand.com/optimizing-images-for-web/)
+
+#### Try Me
+
+- [Color Contrast Accessibility Validator](https://color.a11y.com/)
+
+#### See Also
+
+- [Pausing a GIF with details/summary](https://css-tricks.com/pause-gif-details-summary/)
+- [Synchronous / Asynchronous Image Decode using〈img decoding〉Attribute](hhttps://usefulangle.com/post/277/img-decoding-attribute)
+- [Browser-level image lazy-loading for the web](https://web.dev/browser-level-image-lazy-loading/)
+
+#### Recap
+
+- [Writing Good Alt Text](https://www.youtube.com/watch?v=flf2vS0IoRs)
+
+#### Et Cetera
+
+- [Lazy loading via attribute for images & iframes](https://caniuse.com/loading-lazy-attr)
+
+
 ## Tools
 
 ### Text Editors
