@@ -309,7 +309,7 @@ Continue to work on your how-to webpage with the following accessible, interacti
 ### Homework
 
 1. Start to wrap-up work on your how-to webpage focusing on accessibility and performance best practices:
-    - Review and update color contrast ratio to improve the accessibility of content. Review and update color contrast ratio to improve the accessibility of content. Remember — typography, color, and layout are visual enhancements — content and accessibility first.
+    - Review and update color contrast ratio to improve the accessibility of content. Remember — typography, color, and layout are visual enhancements — content and accessibility first.
       - See [Color Pickers](#color-pickers) tools.
     - Resize and optimize images to the size they appear in the browser or at a maximum, double the width for retina and super retina displays, and aim for an optimized file size around `150 KB` and below (`200 KB` at max, please).
       - See [Image Optimization](#image-optimization) tools.
