@@ -360,6 +360,10 @@ Continue to work on your how-to webpage with the following accessible, interacti
 3. Wrap-up how-to webpage
     - Project rubric (task list) to be announced.
 
+#### Demo
+
+- [Multi-Page Wiki](https://ec-student.github.io/multi-page/)
+
 #### Read Me
 
 - [Responsive Web Design](https://alistapart.com/article/responsive-web-design/) by [Ethan Marcotte](https://ethanmarcotte.com)
