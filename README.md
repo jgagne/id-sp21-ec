@@ -33,7 +33,7 @@ Wednesday, 1:25–4:05 p.m.
 7. [Week 7](#week-7), March 10
 8. [Week 8](#week-8), March 17
 9. [Week 9](#week-9), March 24
-10. [Week 10](#week-10), March 31
+10. [Week 10](#week-10), March 31, *No class*, mid-semester break
 11. [Week 11](#week-11), April 7
 12. [Week 12](#week-12), April 14
 13. [Week 13](#week-13), April 21
@@ -344,6 +344,36 @@ Continue to work on your how-to webpage with the following accessible, interacti
 - [Lazy loading via attribute for images & iframes](https://caniuse.com/loading-lazy-attr)
 
 
+## Week 7
+
+### Homework
+
+1. Working with your selected wiki topic from [Wikipedia](https://wikipedia.org), create a barebones HTML website, single- or multi-page, that focuses on the structure and semantics of your content.
+    - **Note:** Avoid use of images and CSS, for now, focus on content first.
+2. Develop a style tile to later transcribe to CSS
+    - Select free fonts via [Google Fonts](https://fonts.google.com)
+    - Compare web safe (system) fonts and web fonts via [Webfont Test](http://webfont-test.com)
+    - Select colors via [HTML Color Codes](https://htmlcolorcodes.com)
+      - See [Color Codes](#color-codes)
+    - Create an accessible color palette via [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/)
+    - Download a template via [Style Tiles](http://styletil.es)
+3. Wrap-up how-to webpage
+    - Project rubric (task list) to be announced.
+
+#### Read Me
+
+- [Responsive Web Design](https://alistapart.com/article/responsive-web-design/) by [Ethan Marcotte](https://ethanmarcotte.com)
+- [Style Tiles and How They Work](https://alistapart.com/article/style-tiles-and-how-they-work/) by [Samantha Warren](https://samanthawarren.design)
+
+### Try Me
+
+- [Textise](https://www.textise.net)
+
+### Recap
+
+- [alt attributes like paragraphs](https://daverupert.com/2020/09/alt-attributes-like-paragraphs/) by Dave Rupert
+
+
 ## Tools
 
 ### Text Editors
@@ -392,6 +422,10 @@ Simple color pickers for checking the accessibility of text against the Web Cont
 - [ImageOptim](https://imageoptim.com/mac) (Mac only)
 - [JPG.rocks](https://jpeg.rocks/) — Privacy-aware JPEG optimizer
 - [Squoosh](https://squoosh.app)
+
+### Text Only
+
+- [Textise](https://www.textise.net)
 
 ### Writing, Grammar, and Punctuation
 
