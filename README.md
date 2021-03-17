@@ -378,6 +378,32 @@ Continue to work on your how-to webpage with the following accessible, interacti
 - [alt attributes like paragraphs](https://daverupert.com/2020/09/alt-attributes-like-paragraphs/) by Dave Rupert
 
 
+## Week 8
+
+### Homework
+
+Continue work on your wiki web page or site with the following visual enhancements:
+
+- Add `em`-based typography
+- Add `em`-based breakpoint for type scale update for wider layout
+- Add `rem`-based box model dimensions and spacing
+- Add `em`-based breakpoint for horizontal navigation using `grid` layout
+
+#### Read Me
+
+- [How we learned to leave default font-size alone and embrace the em](https://www.filamentgroup.com/lab/how-we-learned-to-leave-body-font-size-alone.html)
+- [The EMs have it: Proportional Media Queries FTW!](https://cloudfour.com/thinks/the-ems-have-it-proportional-media-queries-ftw/)
+- [A History of CSS Through Fifteen Years of 24 ways](https://24ways.org/2019/a-history-of-css-through-15-years-of-24-ways/) by [Rachel Andrew](https://rachelandrew.co.uk)
+
+#### See Also
+
+- [CSS Grid Cheat Sheet Illustrated in 2021](https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3)
+
+#### Recap
+
+- [CSS Art History 101: Decoding Layout Through The Ages](https://www.youtube.com/watch?v=X11xeeUg1Tk) by Patricia Realini `[20:47]`
+
+
 ## Tools
 
 ### Text Editors
@@ -410,6 +436,7 @@ Validate HTML, CSS, links, and accessibility of colors.
 
 - [HTML Color Codes](https://htmlcolorcodes.com)
   - [Web Safe Color Chart](https://htmlcolorcodes.com/color-chart/web-safe-color-chart/)
+- [Hex Color Picker Tool](https://hexcolor.co/color-picker)
 - [Web Safe Colors](https://websafecolors.info)
 - [Tint & Shade Generator](https://maketintsandshades.com)
 
