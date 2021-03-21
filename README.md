@@ -387,7 +387,8 @@ Continue work on your wiki web page or site with the following visual enhancemen
 - Add `em`-based typography
 - Add `em`-based breakpoint for type scale update for wider layout
 - Add `rem`-based box model dimensions and spacing
-- Add `em`-based breakpoint for horizontal navigation using `grid` layout
+- Add `em`-based breakpoint using `grid` layout for a horizontal navigation
+- Add `em`-based breakpoint using `float` to create a text wrap around a figure and/or image
 
 #### Demo
 
@@ -407,12 +408,12 @@ Continue work on your wiki web page or site with the following visual enhancemen
 
 - [How we learned to leave default font-size alone and embrace the em](https://www.filamentgroup.com/lab/how-we-learned-to-leave-body-font-size-alone.html)
 - [The EMs have it: Proportional Media Queries FTW!](https://cloudfour.com/thinks/the-ems-have-it-proportional-media-queries-ftw/)
+- [float CSS property](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
 - [Learn CSS Grid](https://learncssgrid.com)
 
 #### Recap
 
 - [Responsive Web Design](https://alistapart.com/article/responsive-web-design/) by [Ethan Marcotte](https://ethanmarcotte.com)
-
 
 ## Tools
 
