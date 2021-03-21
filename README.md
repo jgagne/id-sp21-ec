@@ -389,19 +389,29 @@ Continue work on your wiki web page or site with the following visual enhancemen
 - Add `rem`-based box model dimensions and spacing
 - Add `em`-based breakpoint for horizontal navigation using `grid` layout
 
+#### Demo
+
+- [CSS Responsive Typography, Breakpoints, and Layout](https://jsbin.com/fuvejiz/edit?html,css,output)
+
 #### Read Me
 
-- [How we learned to leave default font-size alone and embrace the em](https://www.filamentgroup.com/lab/how-we-learned-to-leave-body-font-size-alone.html)
-- [The EMs have it: Proportional Media Queries FTW!](https://cloudfour.com/thinks/the-ems-have-it-proportional-media-queries-ftw/)
+- [Web Layout History](http://grid-layout.com/history.html)
 - [A History of CSS Through Fifteen Years of 24 ways](https://24ways.org/2019/a-history-of-css-through-15-years-of-24-ways/) by [Rachel Andrew](https://rachelandrew.co.uk)
+- [The New CSS Layout, An Excerpt](https://alistapart.com/article/the-new-css-layout-excerpt/)
+
+#### Watch Me
+
+- [Creating CSS Grid](https://channel9.msdn.com/Blogs/msedgedev/Creating-CSS-Grid) `[2:45]`
 
 #### See Also
 
-- [CSS Grid Cheat Sheet Illustrated in 2021](https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3)
+- [How we learned to leave default font-size alone and embrace the em](https://www.filamentgroup.com/lab/how-we-learned-to-leave-body-font-size-alone.html)
+- [The EMs have it: Proportional Media Queries FTW!](https://cloudfour.com/thinks/the-ems-have-it-proportional-media-queries-ftw/)
+- [Learn CSS Grid](https://learncssgrid.com)
 
 #### Recap
 
-- [CSS Art History 101: Decoding Layout Through The Ages](https://www.youtube.com/watch?v=X11xeeUg1Tk) by Patricia Realini `[20:47]`
+- [Responsive Web Design](https://alistapart.com/article/responsive-web-design/) by [Ethan Marcotte](https://ethanmarcotte.com)
 
 
 ## Tools
