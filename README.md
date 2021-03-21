@@ -384,11 +384,11 @@ Continue to work on your how-to webpage with the following accessible, interacti
 
 Continue work on your wiki web page or site with the following visual enhancements:
 
-- Add `em`-based typography
-- Add `em`-based breakpoint for type scale update for wider layout
-- Add `rem`-based box model dimensions and spacing
-- Add `em`-based breakpoint using `grid` layout for a horizontal navigation
-- Add `em`-based breakpoint using `float` to create a text wrap around a figure and/or image
+1. Add `em`-based typography
+2. Add `em`-based breakpoint for type scale update for wider layout
+3. Add `rem`-based box model dimensions and spacing
+4. Add `em`-based breakpoint using `grid` layout for a horizontal navigation
+5. Add `em`-based breakpoint using `float` to create a text wrap around a figure and/or image
 
 #### Demo
 
