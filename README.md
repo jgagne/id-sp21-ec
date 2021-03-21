@@ -396,9 +396,9 @@ Continue work on your wiki web page or site with the following visual enhancemen
 
 #### Read Me
 
-- [Web Layout History](http://grid-layout.com/history.html)
+- [Web Layout History](http://grid-layout.com/history.html) by [Dr. Steven D. Anderson](https://drsteveanderson.com)
 - [A History of CSS Through Fifteen Years of 24 ways](https://24ways.org/2019/a-history-of-css-through-15-years-of-24-ways/) by [Rachel Andrew](https://rachelandrew.co.uk)
-- [The New CSS Layout, An Excerpt](https://alistapart.com/article/the-new-css-layout-excerpt/)
+- [The New CSS Layout, An Excerpt](https://alistapart.com/article/the-new-css-layout-excerpt/) by Rachel Andrew
 
 #### Watch Me
 
