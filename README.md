@@ -402,6 +402,7 @@ Continue work on your wiki web page or site with the following visual enhancemen
 
 #### Watch Me
 
+- [Ethan Marcotte Live: A Dao of Flexibility](https://aneventapart.com/news/post/ethan-marcotte-a-dao-of-flexibility-video) `[56:32]`
 - [Creating CSS Grid](https://channel9.msdn.com/Blogs/msedgedev/Creating-CSS-Grid) `[2:45]`
 
 #### See Also
