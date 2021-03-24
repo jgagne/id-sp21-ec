@@ -416,6 +416,31 @@ Continue work on your wiki web page or site with the following visual enhancemen
 
 - [Responsive Web Design](https://alistapart.com/article/responsive-web-design/) by [Ethan Marcotte](https://ethanmarcotte.com)
 
+
+## Week 9
+
+### Homework
+
+Continue work on your wiki web page or site with the following visual enhancements:
+
+1. Add a web font for headings via Google Fonts
+2. To be determined
+3. Complete how-to project rubric (task list); to be announced as an Issue in your repo
+
+#### See Also
+
+- [Google Fonts](https://fonts.google.com)
+
+#### Recap
+
+- [Webfont Test](http://webfont-test.com)
+
+
+## Week 10
+
+- *No class*, mid-semester break
+
+
 ## Tools
 
 ### Text Editors
