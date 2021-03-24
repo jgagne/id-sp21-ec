@@ -433,10 +433,11 @@ Continue work on your wiki web page or site with the following visual enhancemen
 #### Read Me
 
 - [The Decade-Long Path to Web Fonts](https://thehistoryoftheweb.com/web-fonts/)
-- [How to use Google Fonts in your next web design project](https://www.freecodecamp.org/news/how-to-use-google-fonts-in-your-next-web-design-project-e1ad48f1adfa/)
+- [System fonts don’t have to be ugly](https://iainbean.com/posts/2021/system-fonts-dont-have-to-be-ugly/?ref=betterwebtype&mc_cid=3fd365001a&mc_eid=e2a9a05ded)
 
 #### See Also
 
+- [How to use Google Fonts in your next web design project](https://www.freecodecamp.org/news/how-to-use-google-fonts-in-your-next-web-design-project-e1ad48f1adfa/)
 - [Google Fonts](https://fonts.google.com)
 
 #### Recap
