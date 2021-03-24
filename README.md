@@ -430,6 +430,11 @@ Continue work on your wiki web page or site with the following visual enhancemen
 
 - Complete how-to project rubric (task list); to be announced as an Issue in your repo
 
+#### Read Me
+
+- [The Decade-Long Path to Web Fonts](https://thehistoryoftheweb.com/web-fonts/)
+- [How to use Google Fonts in your next web design project](https://www.freecodecamp.org/news/how-to-use-google-fonts-in-your-next-web-design-project-e1ad48f1adfa/)
+
 #### See Also
 
 - [Google Fonts](https://fonts.google.com)
