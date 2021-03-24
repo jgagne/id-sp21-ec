@@ -425,7 +425,10 @@ Continue work on your wiki web page or site with the following visual enhancemen
 
 1. Add a web font for headings via Google Fonts
 2. To be determined
-3. Complete how-to project rubric (task list); to be announced as an Issue in your repo
+
+### Wrap-Up
+
+- Complete how-to project rubric (task list); to be announced as an Issue in your repo
 
 #### See Also
 
