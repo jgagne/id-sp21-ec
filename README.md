@@ -424,11 +424,11 @@ Continue work on your wiki web page or site with the following visual enhancemen
 Continue work on your wiki web page or site with the following visual enhancements:
 
 1. Add a web font for headings via Google Fonts
-2. To be determined
+2. Review and apply Week 7 and 8 homework into current project
 
 ### Wrap-Up
 
-- Complete how-to project rubric (task list); to be announced as an Issue in your repo
+- Complete How-To: Rubric Task List; to be announced as an Issue in your repo
 
 #### Read Me
 
@@ -449,6 +449,24 @@ Continue work on your wiki web page or site with the following visual enhancemen
 
 - *No class*, mid-semester break
 
+
+## Week 11
+
+### Sync
+
+- Wiki web page progress review
+- How-To: Rubric Task List due
+  - Review, complete, and check off tasks, as best as possible.
+- Discussion of final project
+  - Single Serving: Design a modern responsive single serving website — a single-page with a single-theme using your own content; focusing on type, color, image, and layout.
+    - Keep it simple and fun, for example:
+      - [Books on Graphic Design (and Typography)](https://booksongraphicdesign.com)
+
+## Week 12
+
+### Milestone
+
+- Wiki web pages due
 
 ## Tools
 
