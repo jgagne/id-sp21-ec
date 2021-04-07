@@ -463,6 +463,10 @@ Continue work on your wiki web page or site with the following visual enhancemen
       - [Books on Graphic Design (and Typography)](https://booksongraphicdesign.com)
       - [How to Order Eggs](https://onepagelove.com/how-to-order-eggs)
 
+### Resources
+
+- [Grid by Example](https://www.youtube.com/playlist?list=PLQkVA6z3dFvbnBJetfYDAF3-cG_ubgdZR) `[20 videos]`
+
 ## Week 12
 
 ### Milestone
