@@ -455,13 +455,18 @@ Continue work on your wiki web page or site with the following visual enhancemen
 ### Sync
 
 - Wiki Web work-in-progress review
-- How-To: Rubric Task List due
+- How-To: Rubric Task List review
   - Review, complete, and check off tasks, as best as possible.
 - Discussion of final project
   - Single Serving: Design a modern responsive single serving website — a single-page with a single-theme using your own content; focusing on type, color, image, and layout.
     - Keep it simple and fun, for example:
       - [Books on Graphic Design (and Typography)](https://booksongraphicdesign.com)
       - [How to Order Eggs](https://onepagelove.com/how-to-order-eggs)
+
+### Demos
+
+- [2-Column Layout](https://jsbin.com/nelidel/edit?html,css,output)
+- [Image Grid Layout](https://jsbin.com/kepenet/edit?html,css,output)
 
 ### Resources
 
@@ -472,6 +477,7 @@ Continue work on your wiki web page or site with the following visual enhancemen
 ### Milestone
 
 - Wiki Web page/site due
+- How-To: Rubric Task List due
 
 ## Week 13
 
