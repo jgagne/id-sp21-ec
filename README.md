@@ -484,11 +484,11 @@ Continue work on your wiki web page or site with the following visual enhancemen
 ### Milestone
 
 - Single-Serving work-in-progress review
-- Wiki Web: Rubric Task List due
 
 ## Week 14
 
 - Workshop (Code Time)
+- Wiki Web: Rubric Task List due
 
 ## Week 15
 
